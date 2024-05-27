@@ -1,0 +1,11 @@
+.student-table-row > td{
+    text-align: center;
+   width: 100px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+   font-weight: 500;
+   color: rgb(108, 100, 100);
+}
+.table-head > tr > th{
+    width: 200px;
+}
